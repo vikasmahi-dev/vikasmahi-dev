@@ -2,7 +2,7 @@
 
 I'm an Infrastructure Architect & Technical Lead who loves turning complex tasks into simple, automated solutions. I spend my time designing, deploying, and managing cloud environments, with a passion for scripting and automation to streamline workflows.
 
-⏳ Response Notice: I sometimes run a bit slower on replies—I'm often deep in cloud and infrastructure work. Thanks for your patience!
+⏳ Response Notice: I sometimes run a bit slower on replies — I'm often deep in cloud and infrastructure work. Thanks for your patience!
 
 * 🔧 **Automating infrastructure tasks** across AWS, Azure, VMware, and O365.
 * 🐍 **Creating secure Python applications** using tools like Boto3, Azure SDK, and Nuitka.
