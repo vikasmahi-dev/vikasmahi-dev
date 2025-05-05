@@ -1,6 +1,6 @@
 # Hi there, I'm Vikas 👋
 
-I'm an Infrastructure and Cloud Engineer who loves turning complex tasks into simple, automated solutions. I spend my time designing, deploying, and managing cloud environments, with a passion for scripting and automation to streamline workflows.
+I'm an Infrastructure Architect & Technical Lead who loves turning complex tasks into simple, automated solutions. I spend my time designing, deploying, and managing cloud environments, with a passion for scripting and automation to streamline workflows.
 
 ⏳ Response Notice: I sometimes run a bit slower on replies—I'm often deep in cloud and infrastructure work. Thanks for your patience!
 
