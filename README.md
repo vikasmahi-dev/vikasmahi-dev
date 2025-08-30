@@ -13,15 +13,6 @@ I'm an Infrastructure Architect & Technical Lead who loves turning complex tasks
 
 ## 🚀 Recent Projects
 
-* 📦 **AWS Backup Reporting Tool** – Provides visual dashboards and reports on backup job statuses, including failures, enabling efficient monitoring and data export for analysis.
-* 🛑📊 **AWS Stopped Instance & Stale Volume Reporter** – GUI-based executable to quickly audit and export reports of stopped EC2 instances and unused EBS volumes.
-* 🖥️📸 **Azure VM Snapshot Tool** – PowerShell script to create snapshots of Azure virtual machine disks for easy backups.
-* 📧 **Distribution List Manager** – Interactive PowerShell tool for easily managing members of Exchange distribution groups, with detailed logging for audit and troubleshooting.
-* 💾 **Azure Unattached Disk Reporter** – PowerShell script to identify unattached Azure managed disks, providing detailed cost analysis and Excel reporting for resource optimization.
-* 🗑️📸 **Azure Snapshot Cleanup Tool** – Interactive PowerShell script to filter and delete matching Azure VM snapshots across subscriptions, complete with confirmation prompts, logging, and CSV export.
-* 🛡️ **Automated Windows Defender Onboarding** – Seamless VM onboarding via scheduled tasks (AWS & Azure).
-* ⚒️ **Python Packager UI** – User-friendly tool for converting Python scripts into secure executables.
-* 🔍 **Python Diff Checker** – Visually compare and merge text files with ease.
 
 ---
 
