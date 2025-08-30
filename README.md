@@ -29,7 +29,7 @@ I'm an Infrastructure Architect & Technical Lead who loves turning complex tasks
 
 **💻 Operating Systems:**
 
-* Windows Server (2012–2019), Linux basics
+* Windows Server (2012–2025), Linux basics
 
 **📈 Monitoring & Backup:**
 
