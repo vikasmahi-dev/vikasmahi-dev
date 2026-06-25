@@ -80,6 +80,8 @@ With over 6 years of experience in enterprise infrastructure, I build automation
 
 ---
 
-## **Architect | Automate | Secure | Optimize | Scale**
+## Engineering Philosophy
 
-> *"Automate repetitive work, standardize infrastructure, and let engineers focus on solving meaningful problems."*
+> "Automate repetitive work, standardize infrastructure, and let engineers focus on solving meaningful problems."
+
+### Architect | Automate | Secure | Optimize | Scale
