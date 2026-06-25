@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Vikas Mahi
 
-> ### **Architect • Automate • Optimize • Secure • Scale**
-
 ### Technical Lead | Cloud Infrastructure & Automation Engineer | AWS Certified Solutions Architect – Professional
 
 I specialize in designing, automating, and optimizing enterprise cloud infrastructure across AWS, Azure, VMware, and Windows Server environments.
@@ -12,10 +10,10 @@ With over 6 years of experience in enterprise infrastructure, I build automation
 
 ## 🚀 What I Do
 
-* ☁️ Design and manage enterprise cloud infrastructure.
+* ☁️ Design and manage enterprise cloud infrastructure across AWS and Azure.
 * ⚙️ Build Infrastructure as Code (Terraform) and DevOps automation solutions.
 * 🐍 Develop enterprise automation tools using PowerShell and Python.
-* 📊 Create dashboards, reporting platforms, and governance solutions.
+* 📊 Create dashboards, reporting platforms, and cloud governance solutions.
 * 🔒 Improve cloud security, backup, disaster recovery, and operational excellence.
 * 🤝 Mentor engineers and promote automation-first engineering practices.
 
@@ -25,23 +23,39 @@ With over 6 years of experience in enterprise infrastructure, I build automation
 
 ### ☁️ Cloud
 
-AWS • Azure • VMware
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* VMware vSphere
 
 ### ⚙️ Automation & DevOps
 
-PowerShell • Python • Terraform • Azure DevOps • GitHub Actions • Jenkins
+* PowerShell
+* Python
+* Terraform
+* Azure DevOps
+* GitHub Actions
+* Jenkins
 
 ### 🏗️ Infrastructure
 
-Windows Server • Active Directory • DNS • DHCP • Group Policy
+* Windows Server
+* Active Directory
+* DNS
+* DHCP
+* Group Policy
 
 ### ☸️ Containers
 
-Kubernetes • Docker
+* Kubernetes
+* Docker
 
 ### 📊 Monitoring & Operations
 
-CloudWatch • Tanium • SL1 • Cohesity • SolarWinds
+* CloudWatch
+* Tanium
+* SL1
+* Cohesity
+* SolarWinds
 
 ---
 
@@ -56,7 +70,7 @@ CloudWatch • Tanium • SL1 • Cohesity • SolarWinds
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 🌐 **Website:** https://vikasmahi.com *(Coming Soon)*
 
@@ -66,4 +80,6 @@ CloudWatch • Tanium • SL1 • Cohesity • SolarWinds
 
 ---
 
-> *"Building secure, automated, and scalable cloud infrastructure that delivers measurable business value."*
+## **Architect | Automate | Secure | Optimize | Scale**
+
+> *"Automate repetitive work, standardize infrastructure, and let engineers focus on solving meaningful problems."*
